@@ -11,7 +11,8 @@ Unless otherwise stated, all our events are free and open to everyone, including
 * 2025.01.29 from 19h30: #OpenHackuarium sur nos nématodes - génétiques et #qualitycontrol4genes
 * 2025.02.05 - #OH et Réunion du comité (tout le monde bienvenu)
 * 2025.02.12 - #OH tbd
-* 2025.03.12 from 19h30: Réunion de l'Assemblée Générale 
+* 2025.03.12 from 19h30: Réunion de l'Assemblée Générale
+* 
   Any questions?  write hello(at)hackuarium.ch  !  =) 
 
 ## Past events
