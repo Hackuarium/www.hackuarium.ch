@@ -8,10 +8,7 @@ The board meets monthly to discuss everything related to the organization of Hac
 
 | Member | Role |
 | - | - |
-| Esther Calderon | Co-president |
-| Dinesh Bolkensteyn | Co-president |
+| Esther Calderon | President |
 | Rachel Aronoff | Lab |
-| Hanna Secher | STEAM & Lab |
 | Michel Horisberger | Treasurer |
 | Vanya Loroch | Communication |
-| Joel Christen | Secretary |
