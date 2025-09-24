@@ -8,20 +8,23 @@ Our laborary is open to the general public every Wednesday 19:00, @ [Route de Cr
 
 Unless otherwise stated, all our events are free and open to everyone, including non-members.
 
-* 2025.02.12 - #OH la Science de l'Amour
-* 2025.02.19 (14-17h) - Moss Kids
-* 2025.02.19 - #OH Moss Life
-* 2025.02.26 - #OH tbd
-* 2025.03.12 from 19h30: Réunion de l'Assemblée Générale
-*  [see events in the wiki](https://wiki.hackuarium.ch/w/Events)
+See [wiki.hackuarium.ch](https://wiki.hackuarium.ch/w/Events) for more info!
 
-Any questions?  write hello(at)hackuarium.ch  !  =) 
+*   Any questions?  write hello(at)hackuarium.ch  !  =) 
 
 ## Past events
-* 2025.02.05 - #OH et Réunion du comité (tout le monde bienvenu)
-* 2025.01.29 - #OH génétiques et #qualitycontrol4genes
-* 2025.01.22 #OH Hackuarium communication
-* 2025.01.15 #OH avec répétition générale pour Jean et elegoo 'build' pour #coding4all
-
+* 2024.10.09 from 19:00: #OpenHackuarium with Esther - 'exploration du rêve conscient'
+* 2024.10.12 from 14:00-17:00: STEAM Bioplastic/Bioart Workshop by [Angela Pisani](https://www.linkedin.com/in/angela-pisani-74858293/?originalSubdomain=be)
+* 2024.10.12 from 18h- : Festive dinner of vegetarian cous-cous from nutritionnist Joyce Rupp, P'tites Pousses of Echandens
+* 2024.10.13 from 16:00-18:00: Conference to Celebrate 10 Years of Biohacking by Hackuarium, with special guests Thomas Landrain of JOGL and Richard Timsit of the Renens FabLab.
+* 2024.10.16 from 19:00: Special #Open Hackuarium with Demonstrations to celebrate 10 years of Hackuarium
+* 2024.10.02 #OH avec Aurélien
+* 2024.09.25 Réunion du comité
 and more! [see past events in the wiki](https://wiki.hackuarium.ch/w/Past_events)
-
+* 2024.06.01 from 16:00: BBQ with our neighbors from Space Alliance - RSVP
+* 2024.05.22 from 19:00: [LeDNA](https://environmental-dna.ethz.ch/research/ercledna/global-lake-sampling/join-our-global-lake-sampling-.html) sample collection with Rachel
+* 2024.05.15 Science Storytelling with Vanya
+* 2024.05.08 Project updates: water quality, urbain gardening
+* 2024.05.01 STEAM brainstorm with Hanna
+* 2024.04.24 Hackuarium board meeting - [Agenda](https://docs.google.com/document/d/156iznCyy70UaKSjXO4n9Q5bnyqMxYL_brjJC2YC4-V8/edit?usp=sharing)
+* 2024.04.24 Solitary bees monitoring with Olivier
