@@ -13,18 +13,17 @@ See [wiki.hackuarium.ch](https://wiki.hackuarium.ch/w/Events) for more info!
 *   Any questions?  write hello(at)hackuarium.ch  !  =) 
 
 ## Past events
-* 2024.10.09 from 19:00: #OpenHackuarium with Esther - 'exploration du rêve conscient'
-* 2024.10.12 from 14:00-17:00: STEAM Bioplastic/Bioart Workshop by [Angela Pisani](https://www.linkedin.com/in/angela-pisani-74858293/?originalSubdomain=be)
-* 2024.10.12 from 18h- : Festive dinner of vegetarian cous-cous from nutritionnist Joyce Rupp, P'tites Pousses of Echandens
-* 2024.10.13 from 16:00-18:00: Conference to Celebrate 10 Years of Biohacking by Hackuarium, with special guests Thomas Landrain of JOGL and Richard Timsit of the Renens FabLab.
-* 2024.10.16 from 19:00: Special #Open Hackuarium with Demonstrations to celebrate 10 years of Hackuarium
-* 2024.10.02 #OH avec Aurélien
-* 2024.09.25 Réunion du comité
-and more! [see past events in the wiki](https://wiki.hackuarium.ch/w/Past_events)
-* 2024.06.01 from 16:00: BBQ with our neighbors from Space Alliance - RSVP
-* 2024.05.22 from 19:00: [LeDNA](https://environmental-dna.ethz.ch/research/ercledna/global-lake-sampling/join-our-global-lake-sampling-.html) sample collection with Rachel
-* 2024.05.15 Science Storytelling with Vanya
-* 2024.05.08 Project updates: water quality, urbain gardening
-* 2024.05.01 STEAM brainstorm with Hanna
-* 2024.04.24 Hackuarium board meeting - [Agenda](https://docs.google.com/document/d/156iznCyy70UaKSjXO4n9Q5bnyqMxYL_brjJC2YC4-V8/edit?usp=sharing)
-* 2024.04.24 Solitary bees monitoring with Olivier
+* 2026.02.14 Neurokids A
+* 2026.02.11 #OH projects and board meeting
+* 2026.02.04 #OH lucid dreams
+* 2026.01.28 #OH End-of-month special – 3D printers
+* 2026.01.21 #OH website!
+* 2026.01.14 #OH and board meeting
+* 2026.01.07 #OH – first of the new year
+* 2025.12.17 End-of-year fondue
+* 2025.12.10 #OH and Rubik’s Cube algorithms
+* 2025.12.03 #OH and board meeting
+* 2025.11.26 #OH and LED earrings workshop
+* 2025.11.19 #OH and symbioses in pea plant roots
+* 2025.11.12 #OpenHackuarium – Rubik’s Cubes and brain games for everyone
+* 2025.11.08 workshop – Kids' Club – Neurokids
